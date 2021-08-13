@@ -53,7 +53,7 @@ _A cada una de las funciones del index se de debe pasar el acces-token de la cue
 
 ## Autores ✒️
 
-* **Agustin Fernandez** - *Documentación* - [fulanitodetal](https://github.com/gusgeek/)
+* **Agustin Fernandez** - *Documentación* - [Github](https://github.com/gusgeek/)
 
 
 ### Expresiones de Gratitud 🎁
