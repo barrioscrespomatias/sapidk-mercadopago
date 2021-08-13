@@ -151,7 +151,7 @@ namespace SAPIDK_MP;
 
 		}
 		
-		public static function RecurrentCreator($data, $token) { return CURL::CURL_POST("https://api.mercadopago.com/preapproval", $data, $token); }
+		public static function RecurrentCreator($data, $token) { return CURL::CURL_POST("https://api.mercadopago.com/preapproval_plan", $data, $token); }
 
 
 
