@@ -3,6 +3,9 @@
   include('./src/core.php');
   $MP = new SAPIDK_MP\Action(); 
 
+  //Acces token de prueba
+  //APP_USR-2312683380594332-080918-d310077e94dac074625b31da84dd5392-804766238
+
 //   //Listar tiendas
 // 	 $qrCaja=  $MP->StoreList(804766238, 30, 0, "Your_ACCES_TOKEN");
 //   var_dump($qrCaja);
